@@ -12,3 +12,9 @@ public class facebooklaunch {
 	Thread.sleep(3000);
 	driver.close();	
 	
+	
+	
+	}
+
+}
+
